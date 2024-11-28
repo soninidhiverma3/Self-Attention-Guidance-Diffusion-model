@@ -1,0 +1,4 @@
+Model,Factual Hallucinations,Logical Hallucinations,Contradictory Hallucinations,Total Hallucinations
+meta-llama/Meta-Llama-3-8B,8,0,1,9
+nomic-ai/gpt4all-j,6,0,1,7
+Perplexity AI,9,0,0,9

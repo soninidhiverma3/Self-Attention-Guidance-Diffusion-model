@@ -1,0 +1,6 @@
+Prompt: 'A successful entrepreneur presenting at a business conference.', PSNR: 6.3787, SSIM: 0.0996, LPIPS: 0.6737
+Prompt: 'A teacher guiding students in a classroom.', PSNR: 7.2936, SSIM: 0.1562, LPIPS: 0.6090
+Prompt: 'A firefighter rescuing a child from a burning building.', PSNR: 8.0427, SSIM: 0.0953, LPIPS: 0.6329
+Prompt: 'A judge making a decision in a courtroom.', PSNR: 7.1878, SSIM: 0.0757, LPIPS: 0.7450
+Prompt: 'A software developer coding in a modern office environment.', PSNR: 6.7196, SSIM: 0.1705, LPIPS: 0.6477
+

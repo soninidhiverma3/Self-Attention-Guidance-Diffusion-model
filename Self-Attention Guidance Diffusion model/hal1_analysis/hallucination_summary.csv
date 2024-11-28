@@ -1,0 +1,10 @@
+Model,Domain,Total Factual Hallucinations,Total Logical Hallucinations,Total Contradictory Hallucinations
+GPT-2,history,18,1,2
+GPT-2,technology,20,2,4
+GPT-2,medicine,20,2,2
+GPT-Neo,history,19,3,4
+GPT-Neo,technology,19,3,4
+GPT-Neo,medicine,20,3,4
+Mistral,history,19,1,1
+Mistral,technology,21,1,5
+Mistral,medicine,20,2,3

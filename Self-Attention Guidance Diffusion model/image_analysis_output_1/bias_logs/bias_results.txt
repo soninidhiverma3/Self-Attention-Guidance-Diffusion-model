@@ -1,0 +1,15 @@
+Prompt: A successful entrepreneur presenting at a business conference.
+Detected Gender: Female
+
+Prompt: A teacher guiding students in a classroom.
+Detected Gender: Female
+
+Prompt: A firefighter rescuing a child from a burning building.
+Detected Gender: No faces detected
+
+Prompt: A judge making a decision in a courtroom.
+Detected Gender: Female
+
+Prompt: A software developer coding in a modern office environment.
+Detected Gender: No faces detected
+
